@@ -18,7 +18,7 @@ This Website is created with the help of Node.js, MongoDB, Express js and EJS.
 Clone the project
 
 ```bash
-  git clone https://github.com/SpryzenAD/free-blog.git
+  git clone https://github.com/SpryzenAd/free-blog.git
 ```
 
 Go to the project directory

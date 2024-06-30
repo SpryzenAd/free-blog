@@ -7,7 +7,7 @@ This Website is created with the help of Node.js, MongoDB, Express js and EJS.
 ## Features
 
 - Compose New Post
-    > <url>/compose
+    > your_url/compose
 
 - Dynamically get a Web Page for your Post
 

@@ -1,16 +1,13 @@
 
-# Blog Website
+# Free Blog
 
-This Blog Website is created with the help of Node.js, Database MongoDB and deployed using Heroku
-## Demo
-
-https://blog-6lel.onrender.com/
+This Website is created with the help of Node.js, MongoDB, Express js and EJS.
 
 
 ## Features
 
 - Compose New Post
-    > `https://blog-6lel.onrender.com/compose`
+    > <url>/compose
 
 - Dynamically get a Web Page for your Post
 
@@ -21,13 +18,13 @@ https://blog-6lel.onrender.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/blog-website.git
+  git clone https://github.com/spryzenad/free-blog.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd blog-website
+  cd free-blog
 ```
 
 Install dependencies
@@ -47,18 +44,6 @@ Change MongoDB Connection String
   Change Connection String in app.js
 ```
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/vj9mgRB/blogwebsite.png)
-
 ## Environment Variables
 
 `MONGODB_URI` - MongoDB Connection String
-
-## Documentation
-
-- [Node.js](https://nodejs.org/en/docs/) 
-- [Express.js](https://expressjs.com/)
-- [EJS](https://ejs.co/#docs)
-- [Mongoose](https://mongoosejs.com/docs/guide.html)
-- [Heroku Node.js](https://devcenter.heroku.com/categories/nodejs-support)
